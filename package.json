@@ -11,5 +11,11 @@
     "stuff"
   ],
   "author": "Guy Vanroye",
-  "license": "Apache 2.0"
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  },
+  "dependencies": {
+    "lodash": "^3.5.0"
+  }
 }
