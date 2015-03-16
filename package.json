@@ -1,0 +1,15 @@
+{
+  "name": "NewProject",
+  "version": "0.1.0",
+  "description": "New project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "training",
+    "stuff"
+  ],
+  "author": "Guy Vanroye",
+  "license": "Apache 2.0"
+}
